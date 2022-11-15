@@ -1,0 +1,11 @@
+h6 {
+  &.date {
+    color: rebeccapurple;
+    font-size: 20px;
+  }
+}
+
+.dates {
+  display: flex;
+  gap: 5px;
+}
