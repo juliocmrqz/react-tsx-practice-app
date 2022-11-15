@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './NewExpenseForm.scss';
+import '../../css/NewExpense/NewExpenseFormStyles/NewExpenseForm.min.css';
 /*==============================================================*/
 
 interface NewExpenseFormProps {

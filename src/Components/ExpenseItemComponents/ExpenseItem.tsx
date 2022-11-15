@@ -1,5 +1,5 @@
 import ExpenseDate from './ExpenseDate';
-import './ExpenseItem.scss';
+import '../../css/Expenses/ExpenseItemStyles/ExpenseItem.min.css';
 import { useState } from 'react';
 
 interface ExpenseItemProps {

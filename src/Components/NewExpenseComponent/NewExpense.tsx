@@ -1,4 +1,4 @@
-import './NewExpense.scss';
+import '../../css/NewExpense/NewExpenseStyles/NewExpense.min.css';
 import NewExpenseForm from './NewExpenseForm';
 /*=============================================================*/
 

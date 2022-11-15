@@ -1,4 +1,4 @@
-import './App.scss';
+import './css/App/App.min.css';
 import ExpenseItem from './Components/ExpenseItemComponents/ExpenseItem';
 import NewExpense from './Components/NewExpenseComponent/NewExpense';
 
